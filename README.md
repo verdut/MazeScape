@@ -6,7 +6,8 @@ Grupa:251 an II
 
 
 Tema 2 - Arduino
-~MazeScape~
+
+MazeScape
 
 
 Jocul, idee si descriere
@@ -27,15 +28,15 @@ c. 1) Este impartit pe nivele, unul mai greu decat celalalt, dar vor fi generate
 
 III. Evolutia in timp
 
-         Vor exista in jur de 10 nivele in total. Scorul se va calcula pe baza numarului de miscari executate de player pana la ducerea obiectului la iesirea din labirint. Pentru fiecare nivel exista un numar  minim de miscari in care acesta poate fi rezolvat. Scorul va fi calculat in functie de numarul minim de miscari si numarul de miscari executate de player pana la finalul jocului.
+ Vor exista in jur de 10 nivele in total. Scorul se va calcula pe baza numarului de miscari executate de player pana la ducerea obiectului la iesirea din labirint. Pentru fiecare nivel exista un numar  minim de miscari in care acesta poate fi rezolvat. Scorul va fi calculat in functie de numarul minim de miscari si numarul de miscari executate de player pana la finalul jocului.
 
 IV. Metode de control
        
-       Player-ul se misca cu ajutorul joystick-ului.(stg,dr,sus,jos)
-       Switch-ul de pe joystick va avea mai multe intrebuintari in functie de modulul de program din care face parte. Adica in meniuri va avea functie de reset, in timpul unui nivel va avea functie de restart nivel.
+   Player-ul se misca cu ajutorul joystick-ului.(stg,dr,sus,jos)
+   Switch-ul de pe joystick va avea mai multe intrebuintari in functie de modulul de program din care face parte. Adica in meniuri va avea functie de reset, in timpul unui nivel va avea functie de restart nivel.
        
    
 V. Alte elemente conexe
 
-   Voi folosi display-ul LCD pentru a fi mai usor sa afisez anumite texte si detalii ca sa fie mai usor de inteles jocul si pentru afisarea scorului si a meniului.
+ Voi folosi display-ul LCD pentru a fi mai usor sa afisez anumite texte si detalii ca sa fie mai usor de inteles jocul si pentru afisarea scorului si a meniului.
 
