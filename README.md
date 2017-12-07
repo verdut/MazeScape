@@ -11,8 +11,8 @@ Tema 2 - Arduino
 
 Jocul, idee si descriere
 
-        Jocul se numeste MazeScape. Este vorba despre un labirint, un player si un obiect. Player-ul poate impinge obiectul prin labirint fara sa blocheze obiectul intr-un colt. Obiectivul este ca obiectul sa ajunga la iesirea din labirint. 
-        Se imparte pe nivele si la fiecare final de nivel apare un SmileyFace care arata trecerea cu succes a nivelului si scorul initial.
+Jocul se numeste MazeScape. Este vorba despre un labirint, un player si un obiect. Player-ul poate impinge obiectul prin labirint fara sa blocheze obiectul intr-un colt. Obiectivul este ca obiectul sa ajunga la iesirea din labirint. 
+Se imparte pe nivele si la fiecare final de nivel apare un SmileyFace care arata trecerea cu succes a nivelului si scorul initial.
 
 II. Cum acopera toate punctele necesare?
     
